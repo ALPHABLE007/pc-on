@@ -31,8 +31,8 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "deepcreative007@gmail.com"
-#define WIFI_PASS         "Debasish007"
+#define WIFI_SSID         "Radium"
+#define WIFI_PASS         "65851128"
 #define APP_KEY           "eb495279-bf9d-4fae-93f2-56d75ad0f70d"
 #define APP_SECRET        "400d18b3-77f4-4066-b75b-efe23328f801-9b63963f-06a5-4f9f-acc3-6b69b466ffc5"
 
